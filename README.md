@@ -18,7 +18,7 @@ This Tool is Full Reviews on Educational Purpose Dont Use to illeagel things
 
 
 
- $ git clone https://github.com/kuttoosanser/WhatsApp-Hack-ORG/
+ $ git clone https://github.com/kuttoosanser/WhatsApp-Hack-ORG
 
  $ cd fancynumber
 
